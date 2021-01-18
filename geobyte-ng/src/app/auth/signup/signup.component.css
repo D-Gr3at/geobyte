@@ -1,0 +1,9 @@
+.btn-custom-color{
+  background-color:#1976d2;
+  color: white;
+  font-size: 89%;
+}
+
+@media (min-width: 768px) {
+
+}

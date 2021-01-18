@@ -1,0 +1,12 @@
+.bg-custom-color{
+  background-color:#1976d2;
+  min-height: 8vh;
+}
+
+.navbar-nav>a{
+  color: #ffffff;
+}
+
+.active{
+  color: #1976d2;
+}

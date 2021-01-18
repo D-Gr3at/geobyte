@@ -1,0 +1,16 @@
+.profile-card {
+  text-align: center;
+  color: white;
+  padding: 2rem 0 0 20px;
+}
+img{
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.side-bar{
+  min-height: 90vh;
+  background-color: #1976d2;
+}
